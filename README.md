@@ -1,0 +1,1 @@
+# install_softwares_minimal_KaliVM_Azure_instance
